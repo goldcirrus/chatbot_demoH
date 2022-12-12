@@ -11,7 +11,7 @@ This is an example generator app used in the OpenAI API. It uses the [Flask](htt
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd openai-python
    ```
 
 4. Create a new virtual environment
